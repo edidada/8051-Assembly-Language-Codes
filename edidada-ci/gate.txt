@@ -1,0 +1,7 @@
+# Sources verified to assemble with as31 2.3.1 + edidada-ci/asm51_shim.py
+# when this branch was prepared (3/3 of the assembler files found).
+# CI fails if one of these stops building; everything else is reported
+# in the job summary with a reason tag instead of blocking the run.
+Seven Segment Count 1-0 automatic by 15 sec interval/Seven Segment Count 1-0 automatic by 15 sec interval.ASM
+Seven Segment count using Buttons - 8051/Seven Segment count using Buttons - 8051.ASM
+Traffic Light Signal - 8051/Traffic Light Signal - 8051.ASM
